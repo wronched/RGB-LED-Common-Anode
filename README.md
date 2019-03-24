@@ -69,6 +69,8 @@ Device (ESP8266/LED): recieves a command state from the Host over MQTT of 'comma
 Note: if i set my command_state in configuration yaml as 'EXAMPLE' the device will see 'EXAMPLE' with message 'ON'
 i will also need to program command_state in ESP8266 as 'EXAMPLE' 
 
+#define light_ON "ON"
+#define light_OFF "OFF"
 if (String(command_topic).equals(p_topic)) {            //if(EXAMPLE = EXAMPLE)
     // test if the payload is equal to "ON" or "OFF"
     if (message.equals(String(light_ON))) {             //if(message(ON) = ON)
