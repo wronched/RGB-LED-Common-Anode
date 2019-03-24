@@ -11,13 +11,15 @@ As far as the project is concerned, im going to assume the reader understands ho
 - Set up MQTT sertver   doesnt have to be from raspberry pi BUT HA makes this very easy
 - Set up Home Assistant (HA)
 
-Therfore this project is really a respetory for me to design and devlop:
+Therfore this project is really a repository for me to design and develop:
 - folder for designs
 - Arduino IDE Code
 - readme to explain how code works
 - also explain how each effect works
 
+First off, one point that i missed when i bough me RGB LEDs, determine if the LED strip is common Andome or common Cathode.
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
+
 ## Test Github Code
 -------------------------------------------
 **This is bold text**
