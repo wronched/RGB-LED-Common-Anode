@@ -6,18 +6,18 @@ This project uses:
 - Home Assistant ------- User interface to (on raspberry Pi) to talk to devices
 
 As far as the project is concerned, im going to assume the reader understands how to:
-- Develop hardware ----- Using the ESP8266 GPIO - i did include my design
-- Set up wifi network -- This is your home network - all devices need to be connected to it
-- Set up MQTT sertver -- doesnt have to be from raspberry pi BUT HA makes this very easy
+- Develop hardware ---- Using the ESP8266 GPIO - i did include my design
+- Set up wifi network --- This is your home network - all devices need to be connected to it
+- Set up MQTT server -- doesn't have to be from raspberry pi BUT HA makes this very easy
 - Set up Home Assistant (HA)
 
-Therfore this project is really a repository for me to design and develop:
+Therefore this project is really a repository for me to design and develop:
 - folder for designs
 - Arduino IDE Code
 - readme to explain how code works
 - also explain how each effect works
 
-First off, one point that i missed when i bough me RGB LEDs, determine if the LED strip is common Andome or common Cathode.
+First off, one point that i missed when i bough me RGB LEDs is to determine if the LED strip is common Anode or common Cathode. This is relatively easy to find out, you just check to see if you have a +12V pin or a GND pin in addition to the other 2 pins [ Red, Green, Blue].
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
 
 ## Test Github Code
