@@ -1,4 +1,4 @@
-# RGB-LED-Common-Anode
+## RGB-LED-Common-Anode Project
 This project uses:
 - REG LED -------------- 4 pins for Red,Green,Blue,[Voltage/Ground]
 - ESP8266 -------------- Drives 4 pins and provides WIFI connection
@@ -17,8 +17,12 @@ Therefore this project is really a repository for me to design and develop:
 - readme to explain how code works
 - also explain how each effect works
 
+### Common Andode or Common Cathode
 First off, one point that i missed when i bough me RGB LEDs is to determine if the LED strip is common Anode or common Cathode. This is relatively easy to find out, you just check to see if you have a +12V pin or a GND pin in addition to the other 2 pins [ Red, Green, Blue].
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
+This is important because it tells you what LED value will turn on and off the LED. For instance:  
+Common Anode (+ terminal, typically 5V): ----- 0 = ON and 255 = OFF  
+Common Anode (- terminal, typically GND): --- 0 = OF and 255 = ON  
 
 ## Test Github Code
 -------------------------------------------
