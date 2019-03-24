@@ -32,11 +32,11 @@
  */
 
 /************************** WIFI Information ***************************************/
-#define ssid "NETGEAR73" //type your WIFI information inside the quotes
-#define password "livelycello465"
+#define ssid " " //type your WIFI information inside the quotes
+#define password " "
 
 /************************** MQTT Information ***************************************/
-#define mqtt_server "192.168.1.19"
+#define mqtt_server "192.168.1.XX" //enter your servers IP address
 #define mqtt_port 1883 // Usually 1883
 #define mqtt_username "mqtt"
 #define mqtt_password "password"
@@ -44,7 +44,7 @@
 
 /*************************** MQTT TOPICS *******************************************/
 #define topic_state "home/rgb1"       //**Receive** The MQTT topic subscribed to receive state updates.
-#define topic_set "home/rgb1/set"     //**Publish** The MQTT topic to publish commands to change the light’s state.
+#define topic_set "home/rgb1/set"     //**Publish** The MQTT topic to publish commands to change the lightâ€™s state.
 
 // state
 #define mqtt_state_topic "Bedroom/rgb1/light/status"
