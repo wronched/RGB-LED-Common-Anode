@@ -26,11 +26,7 @@ This is important because it tells you what LED value will turn on and off the L
 | ------- |:---------:| ---:| ---:|
 | Anode   | (+) 5V    | 0   | 255 |
 | Cathode | (-) GND   | 255 | 0   |
-
-
-
-Common Anode (+ terminal, typically 5V): ----- 0 = ON and 255 = OFF  
-Common Anode (- terminal, typically GND): --- 255 = ON and 0 = OFF  
+ 
 
 ## Test Github Code
 -------------------------------------------
