@@ -1,5 +1,22 @@
 # RGB-LED-Common-Anode
-Common Anode RGB LED - Hardware design --> ESP8266 MQTT --> Arduino INO code
+This project uses:
+- REG LED               4 pins for Red,Green,Blue,[Voltage/Ground]
+- ESP8266               Drives 4 pins and provides WIFI connection
+- Raspberry Pi 3B       Creates MQTT server for WIFI to connect to
+- Home Assistant        User interface to (on raspberry Pi) to talk to devices
+
+As far as the project is concerned, im going to assume the reader understands how to:
+- Develop hardware      Using the ESP8266 GPIO - i did include my design
+- Set up wifi network   This is your home network - all devices need to be connected to it
+- Set up MQTT sertver   doesnt have to be from raspberry pi BUT HA makes this very easy
+- Set up Home Assistant (HA)
+
+Therfore this project is really a respetory for me to design and devlop:
+- folder for designs
+- Arduino IDE Code
+- readme to explain how code works
+- also explain how each effect works
+
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
 ## Test Github Code
 -------------------------------------------
