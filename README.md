@@ -21,6 +21,7 @@ Therefore this project is really a repository for me to design and develop:
 First off, one point that i missed when i bough me RGB LEDs is to determine if the LED strip is common Anode or common Cathode. This is relatively easy to find out, you just check to see if you have a +12V pin or a GND pin in addition to the other 2 pins [ Red, Green, Blue].
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
 This is important because it tells you what LED value will turn on and off the LED. For instance:
+
 | Common  | Terminal  | ON  | OFF |
 | ------- |:---------:| ---:| ---:|
 | Anode   | (+) 5V    | 0   | 255 |
