@@ -1,5 +1,6 @@
 # RGB-LED-Common-Anode
 Common Anode RGB LED - Hardware design --> ESP8266 MQTT --> Arduino INO code
+![alt text](https://raw.githubusercontent.com/wronched/projectname/branch/path/to/img.png)
 ## Test Github Code
 -------------------------------------------
 **This is bold text**
