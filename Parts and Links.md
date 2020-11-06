@@ -3,16 +3,19 @@
 DC Power Connector Socket:
 - https://www.amazon.com/gp/product/B07FVTJ2B4/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
 - Price: $6.68 , Quantity: 15 pieces
+
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Power-Socket.png)
 
 Plastic Waterproof Boxes:
 - https://www.amazon.com/gp/product/B07G8S6XLV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
 - Price: $11.99 , Quantity: 10 pieces
+
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Plastic-Box.png)
 
 RGB LED:
 - https://www.amazon.com/gp/product/B01CDTEKAG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 - Price: $32.88 , Quantity: 60 LED @ 16.4ft
+
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/RGB-LED.png)
 
 ESP8266:
