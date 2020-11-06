@@ -3,6 +3,53 @@
 DC Power Connector Socket: https://www.amazon.com/gp/product/B07FVTJ2B4/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/DC-Power-Socket-Conn.jpg)
 
+Plastic Waterproof Boxes: https://www.amazon.com/gp/product/B07G8S6XLV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Plastic-Box.jpg)
+
+RGB LED: https://www.amazon.com/gp/product/B01CDTEKAG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/RGB-LED.jpg)
+
+ESP8266: https://www.amazon.com/gp/product/B07L8W9SP3/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/ESP8266.jpg)
+
+Rocker Switch: https://www.amazon.com/gp/product/B07B2S5QYN/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Rocker-Switch.jpg)
+
+5V 15A AC to DC Power Supply Adapter: https://www.amazon.com/gp/product/B01LXN7MN3/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/PSU.jpg)
+
+USB SD Card reader: https://www.amazon.com/gp/product/B00OJ5WBUE/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/SD-Reader.jpg)
+
+32GB SD Card: https://www.amazon.com/gp/product/B06XWN9Q99/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/SD-Card.jpg)
+
+12V 8-23V Step Down to 5V/3A: https://www.amazon.com/gp/product/B00CXKBJI2/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Step-Down.jpg)
+
+PCB Board Kit: https://www.amazon.com/gp/product/B07CK3RCKS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Board-Kit.jpg)
+
+Raspberry Pi 3 B+: https://www.amazon.com/gp/product/B07BC6WH7V/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Pi-3-B+.jpg)
+
+Logic Level Converter: https://www.amazon.com/gp/product/B0148BLZGE/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/logic-Level.jpg)
+
+DC Power Jack: https://www.amazon.com/gp/product/B011YKCK5M/ref=ppx_yo_dt_b_asin_title_o04_s03?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/DC-Jack.jpg)
+
+
+
+RGB LED Light Strip Connector: https://www.amazon.com/gp/product/B07DL76B6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Strip-Conn.jpg)
+
+Right Angle Connector: https://www.amazon.com/gp/product/B01NASHQPO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Right-Conn.jpg)
+
+RGB LED Light Strip Connector: https://www.amazon.com/gp/product/B07DL76B6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Strip-Conn.jpg)
+
 This project uses:
 - REG LED -------------- 4 pins for Red,Green,Blue,[Voltage/Ground]
 - ESP8266 -------------- Drives 4 pins and provides WIFI connection
