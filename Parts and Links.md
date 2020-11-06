@@ -1,7 +1,7 @@
 ## Project Parts and Links
 
 DC Power Connector Socket: https://www.amazon.com/gp/product/B07FVTJ2B4/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
-![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/DC-Power-Socket.png)
+![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/DC-Power-Socket.jpg)
 
 This project uses:
 - REG LED -------------- 4 pins for Red,Green,Blue,[Voltage/Ground]
