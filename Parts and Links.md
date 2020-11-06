@@ -1,55 +1,82 @@
 ## Project Parts and Links
 
 DC Power Connector Socket:
-https://www.amazon.com/gp/product/B07FVTJ2B4/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
+- https://www.amazon.com/gp/product/B07FVTJ2B4/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
+- Price: $6.68 , Quantity: 15 pieces
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Power-Socket.png)
 
-Plastic Waterproof Boxes: https://www.amazon.com/gp/product/B07G8S6XLV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
+Plastic Waterproof Boxes:
+- https://www.amazon.com/gp/product/B07G8S6XLV/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
+- Price: $11.99 , Quantity: 10 pieces
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Plastic-Box.png)
 
-RGB LED: https://www.amazon.com/gp/product/B01CDTEKAG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+RGB LED:
+- https://www.amazon.com/gp/product/B01CDTEKAG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+- Price: $32.88 , Quantity: 60 LED @ 16.4ft
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/RGB-LED.png)
 
-ESP8266: https://www.amazon.com/gp/product/B07L8W9SP3/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+ESP8266:
+- https://www.amazon.com/gp/product/B07L8W9SP3/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+- Price: $19.99 , Quantity: 4 pieces
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/ESP8266.png)
 
-Rocker Switch: https://www.amazon.com/gp/product/B07B2S5QYN/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+Rocker Switch:
+- https://www.amazon.com/gp/product/B07B2S5QYN/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+- Price: $7.99 , Quantity: 20 pieces
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Rocker-Switch.png)
 
-5V 15A AC to DC Power Supply Adapter: https://www.amazon.com/gp/product/B01LXN7MN3/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+5V 15A AC to DC Power Supply Adapter:
+- https://www.amazon.com/gp/product/B01LXN7MN3/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+- Price: $25.99 , Quantity: 1 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/PSU.png)
 
-USB SD Card reader: https://www.amazon.com/gp/product/B00OJ5WBUE/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+USB SD Card reader:
+- https://www.amazon.com/gp/product/B00OJ5WBUE/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+- Price: $8.49 , Quantity: 1 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/SD-Reader.png)
 
-32GB SD Card: https://www.amazon.com/gp/product/B06XWN9Q99/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
+32GB SD Card:
+- https://www.amazon.com/gp/product/B06XWN9Q99/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
+- Price: $7.99 , Quantity: 1 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/SD-Card.png)
 
-12V 8-23V Step Down to 5V/3A: https://www.amazon.com/gp/product/B00CXKBJI2/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
+12V 8-23V Step Down to 5V/3A:
+- https://www.amazon.com/gp/product/B00CXKBJI2/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
+- Price: $6.99 , Quantity: 1 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Step-Down.png)
 
-PCB Board Kit: https://www.amazon.com/gp/product/B07CK3RCKS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+PCB Board Kit:
+- https://www.amazon.com/gp/product/B07CK3RCKS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+- Price: $15.99 , Quantity: 1 piece (kit)
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Board-Kit.png)
 
-Raspberry Pi 3 B+: https://www.amazon.com/gp/product/B07BC6WH7V/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+Raspberry Pi 3 B+:
+- https://www.amazon.com/gp/product/B07BC6WH7V/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+- Price: $48.99 , Quantity: 1 piece (kit)
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Pi-3-B+.png)
 
-Logic Level Converter: https://www.amazon.com/gp/product/B0148BLZGE/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+Logic Level Converter:
+- https://www.amazon.com/gp/product/B0148BLZGE/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1
+- Price: $7.99 , Quantity: 5 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/logic-Level.png)
 
-DC Power Jack: https://www.amazon.com/gp/product/B011YKCK5M/ref=ppx_yo_dt_b_asin_title_o04_s03?ie=UTF8&psc=1
+DC Power Jack:
+- https://www.amazon.com/gp/product/B011YKCK5M/ref=ppx_yo_dt_b_asin_title_o04_s03?ie=UTF8&psc=1
+- Price: $5.99 , Quantity: 5 piece (pairs)
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/DC-Jack.png)
 
 
 
-RGB LED Light Strip Connector: https://www.amazon.com/gp/product/B07DL76B6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+RGB LED Light Strip Connector:
+- https://www.amazon.com/gp/product/B07DL76B6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+- Price: $7.49 , Quantity: 8 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Strip-Conn.png)
 
-Right Angle Connector: https://www.amazon.com/gp/product/B01NASHQPO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+Right Angle Connector:
+- https://www.amazon.com/gp/product/B01NASHQPO/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+- Price: $11.88 , Quantity: 10 piece
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Right-Conn.png)
 
-RGB LED Light Strip Connector: https://www.amazon.com/gp/product/B07DL76B6M/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
-![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/Strip-Conn.png)
 
 This project uses:
 - REG LED -------------- 4 pins for Red,Green,Blue,[Voltage/Ground]
