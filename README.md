@@ -17,6 +17,13 @@ Therefore this project is really a repository for me to design and develop:
 - readme to explain how code works
 - also explain how each effect works
 
+Steps:
+1. Set up Arduino
+     a. Download board: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+     b. Select "NodeMCU 1.0 - 12E"
+     c. Download Libraries: [ESP8266WIFI, EEPRROM, PUBSUBCLIENT]
+3.  
+
 ### Common Andode or Common Cathode
 First off, one point that i missed when i bough me RGB LEDs is to determine if the LED strip is common Anode or common Cathode. This is relatively easy to find out, you just check to see if you have a +12V pin or a GND pin in addition to the other 2 pins [ Red, Green, Blue].
 ![alt text](https://github.com/wronched/RGB-LED-Common-Anode/blob/master/ReadMe_Pictures/rgb-led.png)
